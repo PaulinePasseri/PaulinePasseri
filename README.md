@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PaulinePasseri<br>👀 I’m interested in video games, board games, books, coding, puzzling and... fashion<br>🌱 I'm specialized in React, React Native, NodeJs and Express<br>📫 How to reach me : paulinecpasseri@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I love anything space related.
+👋 Hi, I’m @PaulinePasseri<br>👀 I’m interested in video games, board games, books, coding, puzzling and... fashion<br>🎮 My favourite video games are : Gris, Life is Strange, Neva, The Legend of Zelda, Stardew Valley, Subnautica, Overwatch and more...<br>📫 How to reach me : paulinecpasseri@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I love anything space related.
 
 
 ## 🌐 Socials:
